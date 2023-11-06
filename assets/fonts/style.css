@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'Montserrat-SemiBold';
+   font-display: swap;
+   src: url('Montserrat-SemiBold/font.ttf');
+}
+@font-face {
+   font-family: 'Montserrat-Medium';
+   font-display: swap;
+   src: url('Montserrat-Medium/font.ttf');
+}
+@font-face {
+   font-family: 'Montserrat-Regular';
+   font-display: swap;
+   src: url('Montserrat-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'arial';
+   font-display: swap;
+   src: url('arial/font.ttf');
+}

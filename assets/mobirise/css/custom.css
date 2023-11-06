@@ -1,0 +1,137 @@
+.cid-tTcUN7MpVh {
+  padding-top: 10rem;
+  padding-bottom: 0rem !important;
+  min-height: 200px!important;
+}
+.cid-tTcUN7MpVh {
+  padding-top: 10rem;
+  padding-bottom: 0rem !important;
+  min-height: 439px !important;
+}
+.topbanner{
+  line-height: 3.1;
+}
+.carousel-caption {
+  position: absolute;
+  right: 15%;
+  bottom: -2.25rem;
+  left: 15%;  
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+  color: #000;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+  z-index: 20000;
+  font-size: 22px;
+}
+.carousel-inner {
+  overflow: unset !important;
+}
+.green{
+  color:#c3d82d !important
+}
+#footer7-4 .container .media-container-row .col-12 p {
+  font-size: 0.8rem;
+}
+.cid-tTcZuqWueZ {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #002b61;
+  overflow: hidden;
+}
+.cid-tTcToZiqlP .navbar .navbar-collapse {
+  
+  justify-content: flex-start;/**/
+  z-index: 1;
+}
+.navbar-buttons{
+  justify-content: flex-end;/**/
+}
+/* login */
+@media (min-width: 768px) {
+  .pt-md-5 {
+    padding-top: 16rem !important;
+  }
+}
+.bd-callout {
+padding: 1.25rem;
+margin-top: 1.25rem;
+margin-bottom: 1.25rem;
+border: 1px solid #eee;
+border-left-width: .25rem;
+border-radius: .25rem
+}
+
+.bd-callout h4 {
+margin-top: 0;
+margin-bottom: .25rem
+}
+
+.bd-callout p:last-child {
+margin-bottom: 0
+}
+
+.bd-callout code {
+border-radius: .25rem
+}
+
+.bd-callout+.bd-callout {
+margin-top: -.25rem
+}
+
+.bd-callout-info {
+border-left-color: #5bc0de
+}
+
+.bd-callout-info h4 {
+color: #5bc0de
+}
+
+.bd-callout-warning {
+border-left-color: #f0ad4e
+}
+
+.bd-callout-warning h4 {
+color: #f0ad4e
+}
+
+.bd-callout-danger {
+border-left-color: #d9534f
+}
+
+.bd-callout-danger h4 {
+color: #d9534f
+}
+
+.bd-callout-primary{
+border-left-color: #007bff
+}
+
+.bd-callout-primaryh4 {
+color: #007bff
+}
+
+.bd-callout-success{
+border-left-color: #c3d82d;
+}
+
+.bd-callout-successh4 {
+color: #c3d82d;
+}
+
+.bd-callout-default{
+border-left-color: #6c757d
+}
+
+.bd-callout-defaulth4 {
+color: #6c757d
+}
+thead{
+  background-color: #002b61 !important;
+  color: #fff;
+}
+.border-primary {
+  border-color: #000 !important;
+}
